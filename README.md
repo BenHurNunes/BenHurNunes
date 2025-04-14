@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Ben-Hur Dutra Nunes 
 
-<!--
-**BenHurNunes/BenHurNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-End Developer | UI/UX Enthusiast | Former Audiovisual Producer**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ben-hur-nunes/) | ✉️ benhur.nunes@hotmail.com  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+**Front-End:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Design & Tools:**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe%20Suite](https://img.shields.io/badge/-Adobe%20Suite-FF0000?logo=adobe&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+### 🌟 Featured Projects
+1. **[Pizzeria Website](https://github.com/BenHurNunes/pizzaria)**  
+   - Responsive Vue.js frontend for local business  
+   - Mobile-first design with Figma prototyping  
+
+2. **[Portfolio SPA](project-link)**  
+   - Interactive single-page application  
+   - Accessibility-focused UI/UX implementation  
+
+### 🎥 Unique Perspective  
+Transitioning from **3 years in audiovisual production** (TVI, Portugal Film Commission) to tech, I bring:  
+-- 🎬 **Storytelling skills** for intuitive user flows  
+-- 🎨 **Visual design sensibility** from editing 100+ videos  
+-- 🎙️ **Client communication** experience from briefing international festival guests  
+
+### 📚 Currently Learning  
+- Advanced Vue.js composition API  
+- UI/UX research methodologies @ UTAD Master's program  
+- TypeScript integration  
+
+### 📫 Let's Connect!  
+Open to collaborations on creative front-end projects where design meets functionality.  
