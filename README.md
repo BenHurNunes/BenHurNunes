@@ -16,6 +16,8 @@
 ![Adobe%20Suite](https://img.shields.io/badge/-Adobe%20Suite-FF0000?logo=adobe&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenHurNunes&layout=donut-vertical&theme=radical&hide=roff,shell&exclude_repo=old-repositories)](https://github.com/BenHurNunes)
+
 ### 🌟 Featured Projects
 1. **[Pizzeria Website](https://github.com/BenHurNunes/pizzaria)**  
    - Responsive Vue.js frontend for local business  
@@ -34,7 +36,7 @@ Transitioning from **3 years in audiovisual production** (TVI, Portugal Film Com
 ### 📚 Currently Learning  
 - Advanced Vue.js composition API  
 - UI/UX research methodologies @ UTAD Master's program  
-- TypeScript integration  
+- TypeScript integration
 
 ### 📫 Let's Connect!  
 Open to collaborations on creative front-end projects where design meets functionality.  
