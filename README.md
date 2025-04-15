@@ -23,7 +23,7 @@
    - Responsive Vue.js frontend for local business  
    - Mobile-first design with Figma prototyping  
 
-2. **[Portfolio SPA](project-link)**  
+2. **[Portfolio SPA](https://benhurnunes.github.io/Portifolio/)**  
    - Interactive single-page application  
    - Accessibility-focused UI/UX implementation  
 
